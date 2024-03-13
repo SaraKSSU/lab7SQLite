@@ -39,7 +39,7 @@ public class StudentMod {
     public String toString() {
         return "Student info " +
                 "id=" + id +
-                ", name='" + name + '\'' +
+                ", name=" + name  +
                 ", age=" + age ;
     }
 }
